@@ -68,7 +68,7 @@ git --version
 7. **Unggah ke GitHub**:
    - Terakhir, jalankan perintah berikut untuk mengunggah kode Anda ke GitHub:
      ```cs
-     git push -u origin master
+     git push origin master
      ```
      **contohnya:**
      ![[git push origin.jpg]]
