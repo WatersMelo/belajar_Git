@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BELAJAR GIT.md",
+                "file": "BELAJAR_GIT.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "FILE BARU.md",
+                "file": "Untitled.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FILE BARU.md",
+                "file": "BELAJAR_GIT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "FILE BARU.md",
+                "file": "BELAJAR_GIT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "FILE BARU.md"
+                "file": "BELAJAR_GIT.md"
               }
             }
           }
@@ -159,9 +158,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5e842a3b551ce2cd",
+  "active": "b9815c32a83b407c",
   "lastOpenFiles": [
-    "BELAJAR GIT.md",
+    "pwd.jpg",
+    "ls.jpg",
+    "cd.jpg",
+    "Untitled.md",
+    "BELAJAR_GIT.md",
+    "login.jpg",
+    "git push origin.jpg",
+    "commit.jpg",
+    "hufqhbe.md",
+    "Screenshot 2024-07-31 073417.jpg",
+    "git remote .jpg",
+    "git_add.jpg",
+    "git_init.jpg",
+    "GIT CONFIG LIST.jpg",
     "FILE BARU.md"
   ]
 }
