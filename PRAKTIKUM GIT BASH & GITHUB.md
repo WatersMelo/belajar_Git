@@ -18,7 +18,7 @@ git --version
 1. **Buat Repositori GitHub Baru**:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
-![[ASSETS/CREATE.PNG]]
+![](ASSETS/CREATE.PNG)
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".!
    - ![500x500][REPOSI.PNG]
 
