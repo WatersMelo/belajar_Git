@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BELAJAR_GIT.md",
+                "file": "PRAKTIKUM GIT BASH & GITHUB.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,8 +64,17 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "32a6d0d61a681361",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -85,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "BELAJAR_GIT.md",
+                "file": "PRAKTIKUM GIT BASH & GITHUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "BELAJAR_GIT.md",
+                "file": "PRAKTIKUM GIT BASH & GITHUB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "BELAJAR_GIT.md"
+                "file": "PRAKTIKUM GIT BASH & GITHUB.md"
               }
             }
           }
@@ -146,22 +155,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f8bb2a3ba3d665a4",
+  "active": "b9815c32a83b407c",
   "lastOpenFiles": [
+    "ASSETS/git_version.jpg",
+    "ASSETS/CREATE.png",
+    "ASSETS/REPOSI.png",
+    "ASSETS/GIT_CONFIG_LIST.jpg",
+    "ASSETS/git_remote .jpg",
+    "ASSETS/git_push_origin.jpg",
+    "ASSETS/GIT_CONFIG LIST.jpg",
+    "ASSETS/GIT.md",
+    "PRAKTIKUM GIT BASH & GITHUB.md",
+    "ASSETS/GIT CONFIG LIST.jpg",
+    "Tags",
     "hufqhbe.md",
     "ASSETS/commit.jpg",
     "ASSETS/cd.jpg",
     "ASSETS/git_init.jpg",
-    "ASSETS/git_add.jpg",
-    "ASSETS/git remote .jpg",
-    "ASSETS/git push origin.jpg",
-    "ASSETS/GIT CONFIG LIST.jpg",
-    "ASSETS/login.jpg",
-    "ASSETS/Screenshot 2024-07-31 073417.jpg",
-    "ASSETS/pwd.jpg",
     "ASSETS",
     "New folder",
-    "BELAJAR_GIT.md",
     "Untitled.md",
     "FILE BARU.md"
   ]
