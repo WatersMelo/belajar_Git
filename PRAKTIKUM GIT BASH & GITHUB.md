@@ -19,9 +19,6 @@ git --version
 ![[ASSETS/git_version.jpg]]
 
 
-
-
-
 ## Langkah-langkah
 
 1. **Buat Repositori GitHub Baru**:
@@ -39,7 +36,8 @@ git --version
      ```
     **Note:** untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
          `git config --list`
- **contohnya:** ![100x][ASSETS/GIT_CONFIG_LIST.JPG]
+ **contohnya:** 
+ ![100x][ASSETS/GIT_CONFIG_LIST.JPG]
 	 
 3. **Inisialisasi Git Lokal**:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
