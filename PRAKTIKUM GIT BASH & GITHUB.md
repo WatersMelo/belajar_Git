@@ -16,15 +16,23 @@ perintah  dalam Git version:
 ```cs
 git --version
 ```
+<<<<<<< HEAD
 
 
 
+=======
+![](ASSETS/git_version.jpg)
+>>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
 ## Langkah-langkah
 
 1. **Buat Repositori GitHub Baru**:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
+<<<<<<< HEAD
 
+=======
+![](ASSETS/CREATE.PNG)
+>>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".!
 
 2. **Konfigurasi Git Lokal**:
@@ -122,5 +130,8 @@ pwd
 3. Tampilkan status commit / koneksi file ke github `git status`
 4. Tambahkan semua file baru atau perubahan menggunakan `git add`
 5. tampilkan status commit / koneksi file ke github `git status`
+<<<<<<< HEAD
 6. . Tambahkan pesan commit menggunakan git commit -m 
 7. Unggah seluruh perubahan menggunakan git push origin 8. Login ke akun github atau gunakan token
+=======
+>>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
