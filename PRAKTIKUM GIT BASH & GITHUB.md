@@ -12,7 +12,7 @@ perintah  dalam Git version:
 ```cs
 git --version
 ```
-![[ASSETS/git_version.JPG]]
+![](ASSETS/git_version.JPG)
 ## Langkah-langkah
 
 1. **Buat Repositori GitHub Baru**:
