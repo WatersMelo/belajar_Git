@@ -1,11 +1,19 @@
 # INSTALASI Git Bash
-Silahkan kalian tuliskan langkahnya mulai dari download sampai selesai instalasi 
+1. Kunjungi halaman download Git di [https://git-scm.com/downloads](https://git-scm.com/downloads) dan pilih "Windows".
+![](ASSETS/git_download.jpg)
+2. Klik pada file installer yang didownload untuk memulai proses instalasi.
+3. Pada jendela "Git Setup", ikuti langkah-langkah berikut:  
+    a. Baca dan setujui lisensi, lalu klik "Next".  
+    b. Pilih lokasi instalasi atau gunakan yang default, lalu klik "Next".  
+    c. Pilih komponen yang ingin diinstal. Biasanya setelan default sudah cukup, klik "Next".
+4. Tunggu proses instalasi selesai, lalu klik "Finish" untuk keluar dari jendela instalasi.
+    Setelah instalasi selesai, Anda dapat membuka Git Bash dari menu Start atau dengan mencari "Git Bash" di laptop/komputer.
 
 # MASUK KE GITHUB
 Silahkan kalian tuliskan langkah mengakses github dan login menggunakan akun github
 buat repisotery
 
-# menghubungkan Project Git bash ke github
+# menghubungkan Folder Proyek lokal ke github
 ## Persiapan
 1. Pastikan Anda telah memiliki akun GitHub. Jika belum, buatlah akun baru di [github.com](https://github.com/).
 2. Instal Git di komputer Anda jika belum terpasang.
@@ -16,23 +24,14 @@ perintah  dalam Git version:
 ```cs
 git --version
 ```
-<<<<<<< HEAD
-
-
-
-=======
 ![](ASSETS/git_version.jpg)
->>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
+
 ## Langkah-langkah
 
 1. **Buat Repositori GitHub Baru**:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
-<<<<<<< HEAD
-
-=======
 ![](ASSETS/CREATE.PNG)
->>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".!
 
 2. **Konfigurasi Git Lokal**:
@@ -124,14 +123,12 @@ pwd
 ```
 `pwd` - Menampilkan path direktori kerja saat ini.
 
+
 # Hubungkan Folder proyek Lokal Ke Github
 1. inisialisasi repository `git init`
 2. Hubungkan ke repository github `git remote`
 3. Tampilkan status commit / koneksi file ke github `git status`
 4. Tambahkan semua file baru atau perubahan menggunakan `git add`
 5. tampilkan status commit / koneksi file ke github `git status`
-<<<<<<< HEAD
 6. . Tambahkan pesan commit menggunakan git commit -m 
 7. Unggah seluruh perubahan menggunakan git push origin 8. Login ke akun github atau gunakan token
-=======
->>>>>>> a73ca95c002e938034e1c529748b12d0adc3c668
