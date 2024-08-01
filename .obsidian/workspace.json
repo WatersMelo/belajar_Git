@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "be8e1237ac502824",
+        "id": "02f6a3c776084223",
         "type": "tabs",
         "children": [
           {
-            "id": "b9815c32a83b407c",
+            "id": "63bb8666f777037a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,8 +73,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -155,8 +154,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b9815c32a83b407c",
+  "active": "63bb8666f777037a",
   "lastOpenFiles": [
+    "PRAKTIKUM GIT BASH & GITHUB.md",
     "ASSETS/git_version.jpg",
     "ASSETS/CREATE.png",
     "ASSETS/REPOSI.png",
@@ -165,13 +165,11 @@
     "ASSETS/git_push_origin.jpg",
     "ASSETS/GIT_CONFIG LIST.jpg",
     "ASSETS/GIT.md",
-    "PRAKTIKUM GIT BASH & GITHUB.md",
     "ASSETS/GIT CONFIG LIST.jpg",
     "Tags",
     "hufqhbe.md",
     "ASSETS/commit.jpg",
     "ASSETS/cd.jpg",
-    "ASSETS/git_init.jpg",
     "ASSETS",
     "New folder",
     "Untitled.md",

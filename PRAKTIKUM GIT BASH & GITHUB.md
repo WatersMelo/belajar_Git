@@ -1,6 +1,10 @@
 # INSTALASI Git Bash
 Silahkan kalian tuliskan langkahnya mulai dari download sampai selesai instalasi 
-# 
+
+# MASUK KE GITHUB
+Silahkan kalian tuliskan langkah mengakses github dan login menggunakan akun github
+buat repisotery
+
 # menghubungkan Project Git bash ke github
 ## Persiapan
 1. Pastikan Anda telah memiliki akun GitHub. Jika belum, buatlah akun baru di [github.com](https://github.com/).
@@ -12,16 +16,20 @@ perintah  dalam Git version:
 ```cs
 git --version
 ```
-![[ASSETS/git_version.JPG]]
+![[ASSETS/git_version.jpg]]
+
+
+
+
+
 ## Langkah-langkah
 
 1. **Buat Repositori GitHub Baru**:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
-![[ASSETS/CREATE.PNG]]
+![](ASSETS/CREATE.png)
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".!
-   - ![500x500][REPOSI.PNG]
-
+![](ASSETS/REPOSI.png)
 2. **Konfigurasi Git Lokal**:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
@@ -120,3 +128,5 @@ pwd
 3. Tampilkan status commit / koneksi file ke github `git status`
 4. Tambahkan semua file baru atau perubahan menggunakan `git add`
 5. tampilkan status commit / koneksi file ke github `git status`
+6. . Tambahkan pesan commit menggunakan git commit -m 
+7. Unggah seluruh perubahan menggunakan git push origin 8. Login ke akun github atau gunakan token
