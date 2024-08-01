@@ -16,7 +16,7 @@ perintah  dalam Git version:
 ```cs
 git --version
 ```
-![[ASSETS/git_version.jpg]]
+
 
 
 ## Langkah-langkah
@@ -24,9 +24,9 @@ git --version
 1. **Buat Repositori GitHub Baru**:
    - Login ke akun GitHub Anda.
    - Klik tombol "New" untuk membuat repositori baru.
-![](ASSETS/CREATE.png)
+
    - Berikan nama repositori, pilih apakah akan bersifat publik atau privat, lalu klik "Create repository".!
-![](ASSETS/REPOSI.png)
+
 2. **Konfigurasi Git Lokal**:
    - Buka git di laptop/komputer anda.
    - Jalankan perintah berikut untuk mengatur identitas Anda:
@@ -37,7 +37,7 @@ git --version
     **Note:** untuk melihat apakah sudah terhubung konfigurasi git nya silakan ketik 
          `git config --list`
  **contohnya:** 
- ![100x][ASSETS/GIT_CONFIG_LIST.JPG]
+ 
 	 
 3. **Inisialisasi Git Lokal**:
    -  Buat direktori baru untuk proyek Anda dan navigasikan ke direktori tersebut menggunakan Git bash. Kemudian, inisialisasi Git di direktori tersebut dengan menjalankan perintah:
@@ -45,8 +45,7 @@ git --version
      git init
      ```
      **contohnya:**
-     ![[ASSETS/git_init.JPG]]
-     
+      
 4. **Hubungkan ke Repositori GitHub**:
    - Jalankan perintah berikut untuk menghubungkan repositori lokal Anda ke repositori GitHub yang telah Anda buat sebelumnya:
      ```cs
@@ -54,7 +53,7 @@ git --version
      ```
    Ganti `username` dan `nama-repository` dengan nama pengguna GitHub Anda dan nama repositori yang Anda buat.kalo dah ada tulisan (master),berarti sudah terhubung ke repositori Githubnya
    **contohnya:**
-   ![[ASSETS/git_remote .JPG]]
+   
      
 5. **Tambahkan file ke repositori**: 
    - Perintah ini akan menambahkan semua file di direktori saat ini ke repositori.
@@ -62,7 +61,7 @@ git --version
      ```cs
      git add .
      ```
-   **contohnya:**![[ASSETS/git_add.JPG]]
+   **contohnya:**!
 
 6. **Buat Commit:**
    - Jalankan perintah berikut untuk membuat commit dengan pesan yang jelas:
@@ -71,7 +70,7 @@ git --version
      git commit -m "Pesan commit"
      ```
      **contohnya:** 
-     ![[ASSETS/commit.JPG]]
+     
    Unggah ke GitHub   (git push origin master):
    Terakhir, jalankan perintah berikut untuk mengunggah kode Anda ke GitHub:
 
@@ -81,9 +80,9 @@ git --version
      git push origin master
      ```
      **contohnya:**
-     ![[ASSETS/git_push_origin.JPG]]
+     
      maka akan tetampil bgini,berarti anda disuruh untuk login akun github mu yang sudah kamu buat 
-      ![300x300][ASSETS/login.jpg]
+      
    Perintah ini akan mengunggah kode Anda ke repositori GitHub. Setelah ini, setiap kali Anda membuat perubahan pada kode, Anda dapat mengulangi langkah 4, 5,6 dan 7 untuk mengunggah perubahan tersebut ke GitHub.
    
 ***Itulah langkah-langkah dasar untuk mengirim kode dari Git ke GitHub menggunakan aplikasi Obsidian. Jika Anda membutuhkan bantuan lebih lanjut, jangan ragu untuk bertanya.***
@@ -98,7 +97,7 @@ cd 'nama document'
   - `cd Documents` - Berpindah ke direktori "Documents".
   - `cd ..` - Berpindah ke direktori induk (satu level di atas).
   **tampilannya:**
-![[ASSETS/cd.jpg]]
+
 
 ## ls 
 - Fungsi: Digunakan untuk melihat daftar file dan direktori yang ada di dalam direktori saat ini.
@@ -107,7 +106,7 @@ cd 'nama document'
 ls
 ```
   - `ls` - Menampilkan daftar fle di dalam direktori saat ini
-![[ASSETS/ls.jpg]]
+
 
 ## pwd
 - Fungsi: Digunakan untuk melihat path (jalur) direktori kerja saat ini.
@@ -116,9 +115,6 @@ ls
 pwd
 ```
 `pwd` - Menampilkan path direktori kerja saat ini.
-![[ASSETS/pwd.jpg]]
-
-
 
 # Hubungkan Folder proyek Lokal Ke Github
 1. inisialisasi repository `git init`
