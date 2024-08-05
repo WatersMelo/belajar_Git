@@ -90,6 +90,17 @@
     Jika tetampil bgini,berarti anda disuruh untuk login akun github mu yang sudah kamu buat
 ![](ASSETS/login.jpg)
 
+Perintah ini akan mengunggah kode Anda ke repositori GitHub. Setelah ini, setiap kali Anda membuat perubahan pada kode, Anda dapat mengulangi langkah 4, 5, dan 6 untuk mengunggah perubahan tersebut ke GitHub.
+
+- **Git status**
+Perintah `git status` dapat dijalankan pada saat kapan pun selama Anda berada di dalam sebuah repository Git.Perintah ini akan menunjukkan status terkini dari repository tersebut, termasuk:
+1. **Branch yang aktif**: Menampilkan cabang (branch) mana yang sedang Anda gunakan saat ini.
+    
+2. **File yang telah dimodifikasi**: Menampilkan daftar file yang telah diubah sejak commit terakhir.
+    
+3. **File baru yang belum dilacak**: Menampilkan daftar file baru yang belum pernah ditambahkan ke repository.
+    
+4. **File yang dihapus**: Menampilkan daftar file yang telah dihapus dari repository.
    Perintah ini akan mengunggah kode Anda ke repositori GitHub. Setelah ini, setiap kali Anda membuat perubahan pada kode, Anda dapat mengulangi langkah 4, 5, dan 6 untuk mengunggah perubahan tersebut ke GitHub.
    
 ***Itulah langkah-langkah untuk menghubungkan proyek ke GitHub***
